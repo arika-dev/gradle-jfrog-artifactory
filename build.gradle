@@ -32,7 +32,7 @@ artifactory {
 
         }
         defaults {
-            publications ('mavenJava')
+            publications('mavenJava')
         }
     }
 }
